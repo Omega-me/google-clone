@@ -1,0 +1,11 @@
+.searchResults {
+  padding: 10px 0 0 180px;
+  .searchResults__container {
+    width: 650px;
+    .searchResults__allResults {
+      margin-bottom: 15px;
+      font-size: 0.9rem;
+      color: grey;
+    }
+  }
+}

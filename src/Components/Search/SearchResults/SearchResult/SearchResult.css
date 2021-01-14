@@ -1,0 +1,29 @@
+.searchResult {
+  margin: 30px 0;
+}
+
+.searchResult a {
+  text-decoration: none;
+  color: #252525;
+}
+
+.searchResult a p {
+  margin: 10px 0;
+  font-size: 0.95rem;
+}
+
+.searchResult a h3 {
+  margin: 10px 0;
+  color: #0000ca;
+  font-weight: inherit;
+}
+
+.searchResult a h3:hover {
+  text-decoration: underline;
+}
+
+.searchResult .searchResult__info {
+  color: #414141;
+  font-size: 0.9rem;
+}
+/*# sourceMappingURL=SearchResult.css.map */

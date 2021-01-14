@@ -1,0 +1,23 @@
+.searchButtons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  cursor: pointer;
+  p {
+    color: grey;
+    font-size: 0.9rem;
+  }
+}
+.searchButtons--active {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  cursor: pointer;
+  border-bottom: 3px solid rgb(0, 102, 255);
+  p {
+    color: rgb(0, 102, 255);
+    font-size: 0.9rem;
+  }
+}

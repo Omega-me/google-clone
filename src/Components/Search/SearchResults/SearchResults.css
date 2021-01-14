@@ -1,0 +1,14 @@
+.searchResults {
+  padding: 10px 0 0 180px;
+}
+
+.searchResults .searchResults__container {
+  width: 650px;
+}
+
+.searchResults .searchResults__container .searchResults__allResults {
+  margin-bottom: 15px;
+  font-size: 0.9rem;
+  color: grey;
+}
+/*# sourceMappingURL=SearchResults.css.map */
